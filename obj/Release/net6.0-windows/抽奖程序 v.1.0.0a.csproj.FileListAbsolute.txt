@@ -1,0 +1,19 @@
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\bin\Release\net6.0-windows\抽奖程序 v.1.0.0a.exe
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\bin\Release\net6.0-windows\抽奖程序 v.1.0.0a.deps.json
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\bin\Release\net6.0-windows\抽奖程序 v.1.0.0a.runtimeconfig.json
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\bin\Release\net6.0-windows\抽奖程序 v.1.0.0a.dll
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\bin\Release\net6.0-windows\抽奖程序 v.1.0.0a.pdb
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.csproj.AssemblyReference.cache
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序_v._1._0._0a.Form1.resources
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序_v._1._0._0a.Form2.resources
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序_v._1._0._0a.Properties.Resources.resources
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.csproj.GenerateResource.cache
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.AssemblyInfoInputs.cache
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.AssemblyInfo.cs
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.csproj.CoreCompileInputs.cache
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.dll
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\refint\抽奖程序 v.1.0.0a.dll
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.pdb
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\抽奖程序 v.1.0.0a.genruntimeconfig.cache
+D:\1.1\windows SDK\抽奖程序 v.1.0.0a\obj\Release\net6.0-windows\ref\抽奖程序 v.1.0.0a.dll
